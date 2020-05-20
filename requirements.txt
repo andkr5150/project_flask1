@@ -24,7 +24,7 @@ fake-useragent==0.1.11
 Flask==1.1.1
 geojson==2.5.0
 gunicorn==20.0.4
-httplib2==0.11.3
+httplib2==0.18.0
 hyperlink==19.0.0
 idna==2.8
 importlib-metadata==0.19
