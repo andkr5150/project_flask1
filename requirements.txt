@@ -19,7 +19,7 @@ cssselect==1.1.0
 cupshelpers==1.0
 defer==1.0.6
 distro-info===0.18ubuntu0.18.04.1
-Django==2.2.5
+Django==2.2.21
 fake-useragent==0.1.11
 Flask==1.1.1
 geojson==2.5.0
